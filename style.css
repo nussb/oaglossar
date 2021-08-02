@@ -1,0 +1,91 @@
+body {
+  /*font-family: "Lato", sans-serif;*/
+  font-family: "Pathway Gothic One", sans-serif;
+  transition: background-color 0.5s;
+  margin: auto;
+  max-width: 800px;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
+a {
+  text-decoration: 0.5px underline;
+  text-decoration-style: dotted;
+  color: grey;
+}
+
+details {
+    margin-left: 1.4em;
+    margin-top: -0.8em;
+    font-family: "Pathway Gothic One", sans-serif;
+}
+
+details ul {
+  margin-left: -1.5em;
+  margin-top: 0em;
+  list-style: none;
+  font-family: "Bitter";
+}
+
+.lauftext {
+  font-family: "Bitter";
+  line-height: 1.2;
+  hyphens: auto;
+  /*text-align: justify;*/
+}
+
+.glossar {
+  text-indent: -1.4em;
+  margin: 1.4em;
+  font-family: "Bitter";
+  line-height: 1.4;
+  hyphens: auto;
+}
+
+.links {
+  margin: 0em;
+  font-family: "Bitter";
+  line-height: 1.4;
+  hyphens: auto;
+  font-size: small;
+}
+
+.tags {
+  margin: 0em;
+  font-family: "Bitter";
+  line-height: 1.4;
+  hyphens: auto;
+  font-size: small;
+  color: grey;
+}
+
+.lemma {
+  color: rgb(179, 77, 9);
+}
+
+.literaturverzeichnis p {
+  margin: 8px 0px;
+}
+
+.bildlegende {
+  color: gray;
+  margin: 4px 0px 18px 0px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-top: 1.3em;
+  margin-bottom: 0.1em;
+}
+
+sup {
+  font-size: small;
+  vertical-align: baseline;
+}
+
+/*sup a {
+    text-decoration: none;
+    color: grey;    
+  }*/
