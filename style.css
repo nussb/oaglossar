@@ -27,13 +27,6 @@ details ul {
   font-family: "Bitter";
 }
 
-.lauftext {
-  font-family: "Bitter";
-  line-height: 1.2;
-  hyphens: auto;
-  /*text-align: justify;*/
-}
-
 .glossar {
   text-indent: -1.4em;
   margin: 1.4em;
