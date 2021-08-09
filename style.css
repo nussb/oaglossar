@@ -9,9 +9,15 @@ body {
 }
 
 a {
-  text-decoration: 0.5px underline;
-  text-decoration-style: dotted;
+  text-decoration: 0.5px none; /*0.5px underline*/
+  text-decoration-style: dotted; /*dotted*/
   color: grey;
+}
+
+a:hover {
+  text-decoration: 0.8px none;
+  text-decoration-style: solid;
+  color: rgb(179, 77, 9);
 }
 
 details {
