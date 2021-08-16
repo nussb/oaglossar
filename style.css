@@ -6,6 +6,7 @@ body {
   max-width: 800px;
   padding-left: 8%;
   padding-right: 8%;
+  font-size: 116%;
 }
 
 a {
@@ -46,7 +47,7 @@ details ul {
   font-family: "Bitter";
   line-height: 1.4;
   hyphens: auto;
-  font-size: small;
+  font-size: smaller;
 }
 
 .tags {
@@ -54,7 +55,7 @@ details ul {
   font-family: "Bitter";
   line-height: 1.4;
   hyphens: auto;
-  font-size: small;
+  font-size: smaller;
   color: grey;
 }
 
