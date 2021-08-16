@@ -59,6 +59,10 @@ details ul {
   color: grey;
 }
 
+.orange {
+  color: rgb(179, 77, 9);
+}
+
 .lemma {
   color: rgb(179, 77, 9);
 }
